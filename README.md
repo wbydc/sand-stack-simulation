@@ -6,7 +6,7 @@ May be not very accurate, but memory and time efficient
 
 ```javascript
 const sandStack = new SandStack();
-sandStack.run();
+sandStack.start();
 
 // automatically stops when there is no turns, but you can stop any time using
 sandStack.stop();

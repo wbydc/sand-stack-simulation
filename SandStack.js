@@ -184,9 +184,9 @@ class SandStack {
     }
 
     /**
-     * run simulation
+     * start simulation
      */
-    run() {
+    start() {
         this.running = true;
         this.startedAt = Date.now();
         this.loop();
