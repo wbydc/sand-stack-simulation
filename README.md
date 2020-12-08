@@ -2,6 +2,9 @@
 
 May be not very accurate, but memory and time efficient
 
+![1000000 items](/sanstack.png)
+1000000 items
+
 ## Usage
 
 ```javascript
